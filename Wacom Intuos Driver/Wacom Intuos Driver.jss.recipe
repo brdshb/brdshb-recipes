@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the installer pkg for Wacom Intuos drivers, then uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.novaksam.jss.WacomIntuos</string>
+	<string>com.github.brdshb.jss.WacomIntuos</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
